@@ -92,7 +92,6 @@ p {
 	font-weight: bold;
 }
 .result .circle span:last-child {
-	/* opacity: 0.4; */
   color: var(--Light-lavender);
 }
 .result .great {
