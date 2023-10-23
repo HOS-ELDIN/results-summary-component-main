@@ -193,3 +193,7 @@ p {
 	color: var(--light-red);
 	background-color: var(--Light-lavender);
 }
+
+#lang {
+	margin-block: 16px 0;
+}

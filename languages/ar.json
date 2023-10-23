@@ -1,0 +1,27 @@
+{
+  "head": "نتيجتك",
+  "great": "ممتاز",
+  "text": "نتيجتك افضل من 65% من الناس الذين قاموا بالامتحان",
+  "result": [
+    {
+      "category": "رد الفعل",
+      "score": 80,
+      "icon": "./images/icon-reaction.svg"
+    },
+    {
+      "category": "الذاكرة",
+      "score": 92,
+      "icon": "./images/icon-memory.svg"
+    },
+    {
+      "category": "النطق",
+      "score": 61,
+      "icon": "./images/icon-verbal.svg"
+    },
+    {
+      "category": "الرؤية",
+      "score": 72,
+      "icon": "./images/icon-visual.svg"
+    }
+  ]
+}
